@@ -1,6 +1,6 @@
 # Natural-Language-Generation
 
-Code to natural language generation as defined in [this paper](./natural-language-generation-with-markov-chains-and -recurrent-neural-networks.pdf). 
+Code to natural language generation as defined in [this paper](./natural-language-generation-with-markov-chains-and-recurrent-neural-networks.pdf). 
 
 ## Abstract
 This paper introduce two approaches to achieve natural language generation
